@@ -1,7 +1,11 @@
 .flex_container{
+justify-content: center;
+align-items: center;
 display: flex;
+flex-wrap: wrap;
 background: red;
 padding: 15px;
+height: 400px;
 }
 .flex-item{
     border: 1px solid #fff;
